@@ -29,6 +29,21 @@
 - _Generate_ API Key
 ![sreenshot](images/api_key.png)
 
-- Menambahkan API key untuk aplikasi Android
+- Menambahkan API _key_ untuk aplikasi Android
 ![sreenshot](images/api_key_androidmanifest.xml.png)
 > _Input_ API key pada file **AndroidManifest.xml**.
+
+- Menambahkan API _key_ untuk aplikasi iOS
+![sreenshot](images/api_key_ios.png)
+> _Input_ API key pada file **AppDelegate.swift**.
+
+- Menambahkan API _key_ untuk aplikasi web
+![sreenshot](images/api_key_web.png)
+> _Input_ API key pada file **index.html**.
+
+- Menampilkan peta di layar
+![sreenshot](images/perubahanisi_main.dart.png)
+> Perubahan isi file **main.dart**.
+
+- Menjalankan aplikasi
+
