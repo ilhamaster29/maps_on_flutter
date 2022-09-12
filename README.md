@@ -4,7 +4,7 @@
 ![sreenshot](images/project_baru_maps.png)
 > _Project_ baru pada praktikum kali ini saya beri nama **maps_on_flutter** sama seperti nama _repository_ di github.
 
-## 2. Menerapkan Plugin Google Maps Flutter 
+## 2. Menambahkan Plugin Google Maps Flutter sebagai Dependensi 
 ![sreenshot](images/flutter_pub.png)
 > Menjalankan perintah **flutter pub add google_maps_flutter** pada terminal untuk menambahkan plugin google maps.
 <br>
