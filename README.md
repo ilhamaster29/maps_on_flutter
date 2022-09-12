@@ -7,5 +7,6 @@
 ## 2. Menerapkan Plugin Google Maps Flutter 
 ![sreenshot](images/flutter_pub.png)
 > Menjalankan perintah **flutter pub add google_maps_flutter** pada terminal untuk menambahkan plugin google maps.
+
 ![sreenshot](images/perubahan_pubspec.yaml.png)
 > Ketika perintah **flutter pub add google_maps_flutter** selesai dijalankan, akan terjadi perubahan pada file **pubspec.yaml**
