@@ -10,7 +10,7 @@
 <br>
 
 ![sreenshot](images/perubahan_pubspec.yaml.png)
-> Ketika perintah **flutter pub add google_maps_flutter** selesai dijalankan, akan terjadi perubahan pada file **pubspec.yaml**
+> Ketika perintah **flutter pub add google_maps_flutter** selesai dijalankan, akan terjadi perubahan pada file **pubspec.yaml**.
 <br>
 
 ![sreenshot](images/flutter_pub_web.png)
@@ -19,5 +19,9 @@
 
 ![sreenshot](images/perubahan_pubspec.lock.png)
 ![sreenshot](images/perubahan_pubspec.yaml_2.png)
-> Ketika perintah **flutter pub add google_maps_flutter_web** selesai dijalankan, akan terjadi perubahan pada file **pubspec.lock** dan **pubspec.yaml**
+> Ketika perintah **flutter pub add google_maps_flutter_web** selesai dijalankan, akan terjadi perubahan pada file **pubspec.lock** dan **pubspec.yaml**.
 <br>
+
+## 3. Mengonfigurasi minSDK Android
+![sreenshot](images/min_sdk_android.png)
+> Menetapkan minSDK ke 20.
